@@ -6,7 +6,7 @@ import json
 
 class janela_login:
     def __init__(self):
-        self.link_database = "https://aplicativo-teste-18aac-default-rtdb.firebaseio.com/"
+        self.link_database = "SEU_LINK_AQUI"
         self.root = Tk()
         self.config_janela()
         self.frames()
