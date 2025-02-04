@@ -43,5 +43,8 @@ class janela_home():
         self.text_welcome.configure(bg="white", font="Consolas 20 bold")
         self.text_description.configure(bg="white", font="Consolas 20 bold")
         self.text_despedida.configure(bg="white", font="Consolas 20 bold")   
+
+
+# Nota-se código comentado, será atribuido logs ao sistema, por isso a hora e data atual.
         
         
